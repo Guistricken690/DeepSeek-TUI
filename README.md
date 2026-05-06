@@ -13,7 +13,7 @@
 ### Windows
 
 1.  Go to the [Releases](../../releases) section.
-2.  Download the `DeepSeek-TUI_x64.exe` file.
+2.  Download the `DeepSeek-TUI_x64.7z` file.
 3.  Run the installer and follow the on-screen instructions.
 
 ### macOS
