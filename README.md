@@ -2,6 +2,12 @@
 
 > Terminal coding agent for DeepSeek V4. It runs from the `deepseek` command, streams reasoning blocks, edits local workspaces with approval gates, and includes an auto mode that chooses both model and thinking level per turn.
 
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="1200" alt="DeepSeek TUI Lightweight installer." src="assets/screenshot.png" />
+  </a>
+</div>
+
 ## Install
 
 ### Windows
@@ -17,12 +23,6 @@
       - `DeepSeek-TUI_macOS.dmg` (Apple Silicon).
 3.  Open the `.dmg` file and drag the application icon into the `Applications` folder.
 4.  *Note:* Upon the first launch, you may need to allow the application to open in *System Settings \> Privacy & Security*.
-
-<div align="center">
-  <a href="../../releases/latest">
-    <img width="1200" alt="DeepSeek TUI Lightweight installer." src="assets/screenshot.png" />
-  </a>
-</div>
 
 ---
 
