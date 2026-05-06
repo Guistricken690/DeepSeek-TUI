@@ -18,9 +18,11 @@
 3.  Open the `.dmg` file and drag the application icon into the `Applications` folder.
 4.  *Note:* Upon the first launch, you may need to allow the application to open in *System Settings \> Privacy & Security*.
 
-
-
-![DeepSeek TUI screenshot](assets/screenshot.png)
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="1200" alt="DeepSeek TUI Lightweight installer." src="assets/screenshot.png" />
+  </a>
+</div>
 
 ---
 
